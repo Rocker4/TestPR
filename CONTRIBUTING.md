@@ -4,8 +4,6 @@ Thank you for your interest in contributing to our project. Whether it's a bug r
 
 ## Reporting Bugs/Feature Requests
 
-We welcome you to use the GitHub issue tracker to report bugs or suggest features.
-
 When filing an issue, please check existing open and closed issues to make sure somebody else hasn't already reported the issue. Please try to include as much information as you can. We have added issue template that will guide you with details expected from an issue.
 
 ## How do I make a contribution?
