@@ -23,11 +23,6 @@ setuptools.setup(
         'unittest',
     ],
     install_requires=[
-        'Cython >=0.29.21',
-        'hl7apy==1.3.4',
-        'pysam',
-        'pandas',
-        'pytz >= 2019.3',
         'pyVCF >=0.6.8',
         'pyranges >= 0.0.96'
     ],
