@@ -2,6 +2,10 @@
 
 Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation, we greatly value feedback and contributions from our community.
 
+## Contriing Guideline
+
+Thank you for your interest in contributing to our project. Whether it's a bug report, new feature documentation, we greatly value feedback and contributions from our community.
+
 ## VReporting Bugs/Feature Requests
 
 When filing an issue, please check existing open and closed issues to make sure somebody else hasn't already reported the issue. Please try to include as much information as you can. We have added issue template that will guide you with details expected from an issue.
